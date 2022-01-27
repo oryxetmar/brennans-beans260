@@ -18,7 +18,10 @@ https://oryxetmar.github.io/brennans-beans260/
 - i am getting very good at solving my issues on my own but i am NOT FAST AT IT HOLY HECK
  ## current issue
  - i cannot quite understand why my coffee mug logo with the hover effect wont appear on my github page but my fontawesome link is attached properly i believe (altho obvi not)
-
+ ### FIXED
+ - well it is 3am, but i do believe i have it fixed!! my hovering coffee logo is appearing properly now. 
+ - i know there are double of my index and css files but i am terrified to delete anything at this point. they should be identical
+- if zipping my file destroys everything... RIP
 
 4. Attributions:
 - https://fontawesome.com/
